@@ -85,8 +85,5 @@ export function HomePage() {
           </button>
         </div>
       </motion.div>
-
-
-
     );
   }

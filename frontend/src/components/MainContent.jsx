@@ -1,5 +1,5 @@
 import { useState, lazy, Suspense, useEffect } from 'react'
-import '../../src/App.css'
+import '../../src/x.css'
 import f1HotWheels from '../assets/f1-hotwheels.png'
 import monsterTrucks from '../assets/monster-trucks.png'
 import f1Logo from '../assets/f1-logo.svg'

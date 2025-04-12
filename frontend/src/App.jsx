@@ -15,8 +15,9 @@ function App() {
           <Route path="/next" element={<Page2 />} />
           <Route path="page3" element={<Page3/>}/>
         </Routes>
-        <MainContent />
+      
       </AnimatePresence>
+      <MainContent />
     </Router>
   );
 }
