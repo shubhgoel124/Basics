@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="30" viewBox="0 0 120 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 5H60V25H20C15 25 10 20 10 15C10 10 15 5 20 5Z" fill="#FF1E00"/>
+  <path d="M60 5H100V25H60V5Z" fill="#FF1E00"/>
+  <text x="25" y="20" fill="white" font-family="Arial" font-weight="bold" font-size="16">F1®</text>
+</svg> 

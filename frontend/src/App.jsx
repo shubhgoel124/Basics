@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import {Page2} from './components/Page2';
 import {Page3} from './components/Page3';
 import { HomePage } from './components/HomePage';
-
+import { MainContent } from './components/MainContent';
 
 
 function App() {
@@ -15,6 +15,7 @@ function App() {
           <Route path="/next" element={<Page2 />} />
           <Route path="page3" element={<Page3/>}/>
         </Routes>
+        <MainContent />
       </AnimatePresence>
     </Router>
   );
